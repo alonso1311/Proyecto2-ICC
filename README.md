@@ -1,2 +1,2 @@
-# Proyecto2-ICC 
-Alonso
+# Proyecto2-ICC
+print("Hello World")
